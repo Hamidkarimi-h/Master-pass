@@ -1,6 +1,3 @@
-
-
-````markdown
 # Advanced Password Generator
 
 An advanced password generator application built with Python and Tkinter.  
@@ -24,7 +21,7 @@ Generate strong, customizable passwords and evaluate their strength with ease.
    ```bash
    git clone https://github.com/your-username/password-generator.git
    cd password-generator
-````
+
 
 2. (Optional) Create and activate a virtual environment:
 
@@ -86,5 +83,4 @@ Hamid - [GitHub Profile](https://github.com/Hamidkarimi-h)
 
 ```
 
----
 
